@@ -1,16 +1,15 @@
-### Привет, я Александра 👋
+## Привет, я Александра 👋
 
 
 ## Я начинающий web-разработчик
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- 💪 Изучаю web-разработку на Яндекс.Практикуме
+- 🥅 Люблю решать задачи на Codewars
+- ⚡ Стремлюсь к работе с настоящими боевыми проектами
 
-### Connect with me:
+### Связаться со мной:
 
-[<img align="left" alt="AlexandraMaslennikova | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlexandraMaslennikova | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="AlexandraMaslennikova | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="AlexandraMaslennikova | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AlexandraMaslennikova | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
@@ -34,10 +33,11 @@
   <summary>:zap: Статистика:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraMaslennikova&langs_count=8&layout=compact" />
     <br />
-    <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandraMaslennikova&show_icons=true" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandraMaslennikova&show_icons=true" />
 </details>
 
 
-[linkedin]: https://#
+[telegram]: https://tlgg.ru/AlexaMaslennikova
+[Facebook]: https://www.facebook.com/alexa.markovna
 [instagram]: https://www.instagram.com/alexamarkovna/
 [vk]: https://vk.com/alexamarkovna
