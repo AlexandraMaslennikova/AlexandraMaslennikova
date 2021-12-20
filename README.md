@@ -32,7 +32,7 @@
 
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>:zap: Статистика:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraMaslennikova&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandraMaslennikova&show_icons=true" />
