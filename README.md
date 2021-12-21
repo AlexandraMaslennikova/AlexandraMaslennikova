@@ -4,7 +4,7 @@
 - 🥅 Люблю решать задачи на Codewars
 - ⚡ Стремлюсь к работе с настоящими боевыми проектами
 
-### Связаться со мной:
+#### Связаться со мной:
 
 [<img align="left" alt="AlexandraMaslennikova | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="AlexandraMaslennikova | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
